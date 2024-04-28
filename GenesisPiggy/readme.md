@@ -1,6 +1,6 @@
 # GenesisPiggy
 
-BlackCoffee's original cardboard pig has been reimagined in filament and can now be printed as easily, and cheaply, as fiat money. This is a draft design so expect some tweaks and please do share any issues you may face or ideas you have to improve it.
+BlackCoffee's original cardboard pig has been reimagined in filament and can now be printed as easily, and cheaply, as fiat money. This is a draft design so expect some tweaks and please do share any ideas you may have to improve it.
 
 Recommended material: PLA or PETG
 
