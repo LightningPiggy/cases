@@ -2,9 +2,11 @@
 
 BlackCoffee's original cardboard pig has been reimagined in filament and can now be printed as easily, and cheaply, as fiat money. This is a draft design so expect some tweaks and please do share any ideas you may have to improve it.
 
+Display Support: 2.13 inch
+
 Recommended material: PLA or PETG
 
-Printing advice: Print lying on it's back (trotters up). Add supports everything except for the tail.The board is quite a tight fit but will go in if there are no bits of filament in the way.
+Printing advice: Print back down (trotters up). Add supports everything except for the tail. Be sure to remove all support materials from around where the board sits. A small flat head screwdriver might be needed if there are difficult to remove pieces of filament remaining.
 
 Creator: [Richard Taylor](https://njump.me/npub1dwekunm9w9agazkwcq88ymxmj0j3qgxcu4mwfqnjqvyusa9cuxrs0wsqel)
 
