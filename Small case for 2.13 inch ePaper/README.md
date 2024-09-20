@@ -6,6 +6,7 @@ The "ZapBox!" edition has been created to be as compact as possible, while maint
 No screws are necessary, everything fits together nice and snug, like a pig in a blanket.
 
 Device Support: LilyGo T5 V2.3.1 (2.13 inch)
+
 Recommended material: PLA or PETG
 
 Printing advice: Add supports to the charging port and buttons slot. Be sure there are no supports interfering with the four lid/case fixing points.
