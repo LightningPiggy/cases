@@ -2,7 +2,7 @@
 
 BlackCoffee's original cardboard pig has been reimagined in filament and can now be printed as easily, and cheaply, as fiat money. This is a draft design so expect some tweaks and please do share any ideas you may have to improve it.
 
-Display Support: 2.13 inch
+Device Support: LilyGo T5 V2.3.1 (2.13 inch)
 
 Recommended material: PLA or PETG
 
